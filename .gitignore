@@ -9,12 +9,6 @@
 # production
 /build
 
-# sources
-/src
-
-# public folder
-/public
-
 # misc
 .DS_Store
 .env.local
