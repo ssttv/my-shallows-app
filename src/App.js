@@ -4,7 +4,6 @@ import './App.css';
 
 console.log(logo);
 
-
 class App extends Component {
   render() {
     return (
